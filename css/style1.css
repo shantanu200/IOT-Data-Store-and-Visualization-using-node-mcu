@@ -1,0 +1,54 @@
+* {
+  font-family: "Code New Roman";
+  color: white;
+}
+
+body {
+  background: linear-gradient(to right, #8360c3, #2ebf91);
+}
+
+.name {
+  font-size: 70px;
+  text-align: center;
+  margin-top: 200px;
+  text-shadow: 3px 3px 4px #444;
+}
+
+.block {
+  color: white;
+  display: block;
+  text-align: center;
+  margin-top: 7rem;
+  /* margin-left: 60%; */
+}
+
+.block img {
+  margin-bottom: 2rem;
+  width: 10%;
+}
+
+.block h1 {
+  font-size: 5rem;
+  font-weight: bold;
+  text-shadow: 3px 3px 3px #444;
+}
+
+.block h2 {
+  font-size: 1.5rem;
+  text-shadow: 3px 3px 3px #444;
+}
+
+.block h3 {
+  font-size: 1rem;
+}
+
+.block button {
+  width: 10rem;
+  margin-top: 0.5rem;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.block button:hover {
+  color: white;
+}

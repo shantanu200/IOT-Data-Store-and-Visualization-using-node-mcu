@@ -1,0 +1,18 @@
+* {
+  font-family: "Code New Roman";
+  color: white;
+}
+
+body {
+  background: linear-gradient(to right, #ad5389, #3c1053);
+}
+
+h1 {
+  margin-top: 0.5rem;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.chart {
+  height: 100;
+}

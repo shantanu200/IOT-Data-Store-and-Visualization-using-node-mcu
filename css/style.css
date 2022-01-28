@@ -1,0 +1,44 @@
+* {
+  font-family: "Code New Roman";
+  color: white;
+}
+
+body {
+  background: linear-gradient(to right, #ad5389, #3c1053);
+}
+.heading {
+  text-align: center;
+}
+
+.heading h1 {
+  margin-left: 1rem;
+  font-size: 4rem;
+}
+
+.heading button {
+  width: 10%;
+  margin-bottom: 0.5rem;
+  font-size: 1.3rem;
+}
+
+.heading .btn-warning {
+  color: azure;
+}
+.form {
+  margin-top: 0.5rem;
+  display: block;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.form input {
+  color: black;
+}
+
+tbody {
+  text-align: center;
+}
+
+thead {
+  text-align: center;
+}
